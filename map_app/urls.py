@@ -25,6 +25,6 @@ urlpatterns = [
     path('api/', include('map_app.api.urls.router')),
 
     # path('reclamar', include('reclama_app.urls')),
-    # path('atualizar', include('atualiza_app.urls')),
+    path('atualizar', include('atualiza_app.urls')),
     # path('informacoes', include('info_app.urls')),
 ]

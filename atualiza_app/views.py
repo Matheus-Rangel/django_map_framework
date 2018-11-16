@@ -1,4 +1,6 @@
-from django.shortcuts import render
+from django.urls import path
+from map_app.views.flex import AtualizaView
 
-# Create your views here.
-
+urls = [
+    path('', AtualizaNatalView.as_view(), name='atualiza'),
+]
