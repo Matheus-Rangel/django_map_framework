@@ -62,8 +62,8 @@ class OrgaoInstituicao(models.Model):
 
 class Despesa(models.Model):
     descricao = models.TextField()
-    elemento = models.TextField()
-    numero = models.BigIntegerField()
+    elemento = models.TextField(blank=True)
+    numero = models.BigIntegerField(null=True)
     empenhado = models.DecimalField(max_digits=15, decimal_places=2)
     anulado = models.DecimalField(max_digits=15, decimal_places=2)
     liquidado = models.DecimalField(max_digits=15, decimal_places=2)
