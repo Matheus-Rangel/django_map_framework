@@ -1,14 +1,16 @@
 from django.views import View
-from django.contrib import messages
+from django.views.generic import TemplateView
+from django.shortcuts import redirect
 from map_app.models import Instituicao, Despesa, Orgao
 
 class AtualizaView(View):
 
-    def get():
-        procedimento()
-        messages.info(self.request, 'Banco de dados sendo atualizado')
+    def get(self, request):
+        response = redirect('home')
+        self.procedimento()
+        return response
 
-    def procedimento():
+    def procedimento(self):
         pass
 
 class ReclamaView(TemplateView):

@@ -18,7 +18,7 @@
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="{% url 'info' %}">Dados Gerais</a>
+            <a class="nav-link" href="{% url 'home' %}">Dados Gerais</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Sobre</a>
@@ -32,6 +32,7 @@
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                 <a class="dropdown-item" href="{% url 'admin:index' %}">Admin</a>
+                <a class="dropdown-item" href="{% url 'atualiza' %}">Atualizar Banco de Dados</a>
               </div>
             </li class = >
             <li>
@@ -43,8 +44,9 @@
                 Opções
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                <a class="dropdown-item" href="{% url 'despesa_list'%}">Lista de Despesas</a>
-                <a class="dropdown-item" href="{% url 'orgao_list'%}">Lista de Orgãos</a>
+                <a class="dropdown-item" href="{% url 'despesa_ano' 2018 %}">Lista de Despesas</a>
+                <a class="dropdown-item" href="{% url 'orgao_api_list'%}">Lista de Orgãos</a>
+                <a class="dropdown-item" href="{% url 'instituicao_api_list'%}">Lista de Instituicões</a>
               </div>
             </li>
             <li><a href="{% url 'admin:index' %}" class="btn btn-primary mr-1 mt-1" role="button">Entrar</a></li>
