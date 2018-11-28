@@ -1,0 +1,68 @@
+Metadata-Version: 1.1
+Name: django-map-app
+Version: 0.1
+Summary: Map_app é uma aplicação django para armazenamento e mapeamento dos gastos de uma prefeitura.
+Home-page: https://github.com/Matheus-Rangel/django_map_framework
+Author: Matheus Rangel de Melo
+Author-email: matheus_rangel@ufrn.edu.br
+License: MIT License
+Description: =====
+        Map_app
+        =====
+        
+        Map_app Ã© uma aplicaÃ§Ã£o django para armazenamento e mapeamento dos
+        gastos de uma prefeitura.
+        
+        Quick start
+        -----------
+        
+        1. instale o django-rest-framework: https://www.django-rest-framework.org/
+        
+        2. Adicione "map_app" na sua configuraÃ§Ã£o INSTALLED_APPS::
+        
+            INSTALLED_APPS = [
+                ...
+                'map_app',
+            ]
+        
+        3. Ã‰ necessario o django admin para cadastrar ou modificar as despesas.
+        
+        4. Inclua as URLconf do map_app no seu projeto urls.py com o prefixo que desejar::
+        
+            path('', include('map_app.urls')),
+            ou
+            path('prefixo/', include('map_app.urls'))
+        
+        5. Execute `python manage.py migrate` para migrar os modelos do map_app para o banco de dados.
+        
+        6. implemente o atualiza_app, reclama_app, info_app. De acordo com a prefeitura.
+            
+            atualiza_app serÃ¡ responsavel por atualizar os dados da prefeitura no banco de dados
+            automaticamente se possivel.
+        
+            reclama_app serÃ¡ responsavel por gerar ou redirecionar o usuario para uma pagina de reclamaÃ§Ã£o
+            da prefeitura
+        
+            info_app serÃ¡ responsavel por exibir as informaÃ§Ãµes gerais do gasto prefeitura, como: 
+                - O gasto total.
+                - O gasto por instituicÃ£o.
+                - O gasto por orgÃ£o.
+                - O gasto por elemento.
+                ...
+        
+        7. visite http://127.0.0.1:8000/prefixo/ para visualizar o mapa.
+           visite http://127.0.0.1:8000/prefixo/api para visualizar as opcoes da api.
+           
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Django
+Classifier: Framework :: Django :: X.Y
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Topic :: Internet :: WWW/HTTP :: Dynamic Content
