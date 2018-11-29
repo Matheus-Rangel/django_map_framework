@@ -8,8 +8,11 @@ gastos de uma prefeitura.
 Quick start
 -----------
 
-1. instale o django-rest-framework: https://www.django-rest-framework.org/
-
+1. Dependencias: 
+    django-rest-framework: https://www.django-rest-framework.org/
+    django-filter: pip install django-filter
+    django-widget-tweaks: https://pypi.org/project/django-widget-tweaks/
+    
 2. Adicione "map_app" na sua configuração INSTALLED_APPS::
 
     INSTALLED_APPS = [
