@@ -1,0 +1,59 @@
+{% extends "map_app/base.html" %}
+{% load widget_tweaks %}
+{% load humanize %}
+{% block body_block %}
+  <form method="get">
+    <div class="jumbotron mr-2 ml-2">
+      <h4 class="mt-2">Filtrar</h4>
+      <div class="row">
+        <div class="form-group col-sm-4 col-md-3">
+          Elemento: 
+          {% render_field filter.form.elemento class="form-control" %}
+        </div>
+        <div class="form-group col-sm-4 col-md-3">
+          Ano de Inicio: 
+          {% render_field filter.form.data_inicio class="form-control" %}
+        </div>
+        <div class="form-group col-sm-4 col-md-3">
+          Orgão:
+          {% render_field filter.form.orgao_instituicao__orgao__nome class="form-control" %}
+        </div>
+        <div class="form-group col-sm-4 col-md-3">
+          Instituição:
+          {% render_field filter.form.orgao_instituicao__instituicao__nome class="form-control" %}
+        </div>
+      </div>
+      <button type="submit" class="btn btn-primary">
+        <span class="glyphicon glyphicon-search"></span> Search
+      </button>
+    </div>
+  </form>
+  <div class = "mr-2 ml-2 conteiner">
+    <table class="table table-bordered" style="margin-top: 5">
+      <thead>
+        <tr>
+          <th>Elemento</th>
+          <th>Data de inicio</th>
+          <th>Empenhado</th>
+          <th>Instituicao</th>
+          <th>Orgao</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for despesa in filter.qs %}
+          <tr>
+            <td><a href="{% url 'despesa_detail' despesa.id %}">{{ despesa.elemento }}</a></td>
+            <td><a href="{% url 'despesa_detail' despesa.id %}">{{ despesa.data_inicio}}</a></td>
+            <td><a href="{% url 'despesa_detail' despesa.id %}">R$ {{ despesa.empenhado|intcomma}}</a></td>
+            <td><a href="{% url 'despesa_detail' despesa.id %}">{{ despesa.orgao_instituicao.instituicao.nome}}</a></td>
+            <td><a href="{% url 'despesa_detail' despesa.id %}">{{ despesa.orgao_instituicao.orgao.nome}}</a></td>
+          </tr>
+        {% empty %}
+          <tr>
+            <td colspan="5">Sem resultados</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+{% endblock %}
