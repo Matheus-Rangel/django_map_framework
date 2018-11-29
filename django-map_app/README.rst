@@ -13,11 +13,15 @@ Quick start
     django-filter: pip install django-filter
     django-widget-tweaks: https://pypi.org/project/django-widget-tweaks/
     
-2. Adicione "map_app" na sua configuração INSTALLED_APPS::
+2. Adicione os apps na sua configuração INSTALLED_APPS::
 
     INSTALLED_APPS = [
         ...
+        'django_extensions',
         'map_app',
+        'rest_framework',
+        'atualiza_app',
+        'widget_tweaks',
     ]
 
 3. É necessario o django admin para cadastrar ou modificar as despesas.

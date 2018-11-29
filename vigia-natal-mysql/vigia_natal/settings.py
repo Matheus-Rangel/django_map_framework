@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'django_extensions',
     'map_app',
     'rest_framework',
-    'rangefilter',
     'atualiza_app',
     'widget_tweaks',
 ]
