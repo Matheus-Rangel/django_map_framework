@@ -1,4 +1,5 @@
 {% extends "map_app/base.html" %}
+{% load humanize %}
 {% block body_block %}
 
 <div class="jumbotron">
@@ -17,21 +18,25 @@
       <h6>Site: {{orgao.site}}</h6>
     </li>
   </ul>
+  <h2>Gastos em {{ano}}:</h2>
+  <ul>
+    <li>
+      <h5>Empenhado: R$ {{empenhado|intcomma}}</h5>
+    </li>
+    <li>
+      <h5>Gasto: R$ {{gasto|intcomma}}</h5>
+    </li>
+  </ul>
 </div>
 
 <div class="container-fluid">
+  <h3>Instituições:</h3>
   <ul>
-    {% for despesa in despesa_list %}
+    {% for instituicao in orgao.instituicoes.all %}
     <li>
-      <div class="despesa">
-        <h4> <a href="{% url 'despesa_detail' pk=despesa.pk %}">{{despesa.descricao}}</a> </h4>
-        <div class="valordespesa">
-          <p>Valor: R${{despesa.valor|floatformat:2}}</p>
-        <div/>
-      </div>
+      <h4> <a href="{% url 'instituicao_detail' instituicao.id %}">{{instituicao.nome}}</a> </h4>
     </li>
     {% endfor %}
   </ul>
 </div>
-
 {% endblock %}

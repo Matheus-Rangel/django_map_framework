@@ -1,12 +1,7 @@
 from map_app.models import Despesa
 from map_app.forms import DespesaForm
 from django.contrib.auth.mixins import LoginRequiredMixin
-from django.views.generic import DetailView, ListView, CreateView, UpdateView
-
-class DespesaListView(ListView):
-    model = Despesa
-    def get_queryset(self):
-        return Despesa.objects.all()
+from django.views.generic import DetailView, CreateView, UpdateView
 
 class DespesaDetailView(DetailView):
     model = Despesa

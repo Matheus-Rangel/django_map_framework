@@ -11,8 +11,8 @@ urlpatterns = [
     re_path(r'^despesa/list/$', FilterView.as_view(filterset_class=DespesaFilter,
         template_name='map_app/despesa_list.html'), name='despesa_list'),
     path('despesa/<int:pk>', despesa.DespesaDetailView.as_view(), name = 'despesa_detail'),
-    path('despesa/cadastrar', despesa.DespesaCreateView.as_view(), name = 'orgao_create'),
-    path('despesa/<int:pk>/update', despesa.DespesaUpdateView.as_view(), name = 'orgao_update'),
+    path('despesa/cadastrar', despesa.DespesaCreateView.as_view(), name = 'despesa_create'),
+    path('despesa/<int:pk>/update', despesa.DespesaUpdateView.as_view(), name = 'despesa_update'),
     
     re_path(r'^orgao/list/$', FilterView.as_view(filterset_class=OrgaoFilter,
         template_name='map_app/orgao_list.html'), name='orgao_list'),
@@ -20,7 +20,7 @@ urlpatterns = [
     path('orgao/cadastrar', orgao.OrgaoCreateView.as_view(), name = 'orgao_create'),
     path('orgao/<int:pk>/update', orgao.OrgaoUpdateView.as_view(), name = 'orgao_update'),
     
-    re_path(r'^orgao/list/$', FilterView.as_view(filterset_class=InstituicaoFilter,
+    re_path(r'^instituicao/list/$', FilterView.as_view(filterset_class=InstituicaoFilter,
         template_name='map_app/instituicao_list.html'), name='instituicao_list'),
     path('instituicao/<int:pk>', instituicao.InstituicaoDetailView.as_view(), name = 'instituicao_detail'),
     path('instituicao/cadastrar', instituicao.InstituicaoCreateView.as_view(), name = 'instituicao_create'),
