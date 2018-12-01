@@ -24,7 +24,7 @@
         </div>
       </div>
       <button type="submit" class="btn btn-primary">
-        <span class="glyphicon glyphicon-search"></span> Search
+        <span class="glyphicon glyphicon-search"></span> Filtrar
       </button>
     </div>
   </form>
@@ -45,8 +45,8 @@
             <td><a href="{% url 'despesa_detail' despesa.id %}">{{ despesa.elemento }}</a></td>
             <td><a href="{% url 'despesa_detail' despesa.id %}">{{ despesa.data_inicio}}</a></td>
             <td><a href="{% url 'despesa_detail' despesa.id %}">R$ {{ despesa.empenhado|intcomma}}</a></td>
-            <td><a href="{% url 'despesa_detail' despesa.id %}">{{ despesa.orgao_instituicao.instituicao.nome}}</a></td>
-            <td><a href="{% url 'despesa_detail' despesa.id %}">{{ despesa.orgao_instituicao.orgao.nome}}</a></td>
+            <td><a href="{% url 'instituicao_detail' despesa.orgao_instituicao.instituicao.id %}">{{ despesa.orgao_instituicao.instituicao.nome}}</a></td>
+            <td><a href="{% url 'orgao_detail' despesa.orgao_instituicao.orgao.id %}">{{ despesa.orgao_instituicao.orgao.nome}}</a></td>
           </tr>
         {% empty %}
           <tr>
