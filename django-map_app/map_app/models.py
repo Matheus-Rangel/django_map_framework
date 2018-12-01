@@ -79,12 +79,3 @@ class Despesa(models.Model):
     orgao_instituicao = models.ForeignKey(OrgaoInstituicao, on_delete = models.CASCADE)
     def __str__(self):
         return self.descricao
-
-class Comentario(models.Model):
-    class Meta:
-        verbose_name = 'Comentário'
-        verbose_name_plural = 'Comentários'
-    autor = models.CharField(max_length = 100)
-    email = models.EmailField(blank=True)
-    comentario = models.TextField()
-    despesa = models.ForeignKey(Despesa, on_delete=models.CASCADE)

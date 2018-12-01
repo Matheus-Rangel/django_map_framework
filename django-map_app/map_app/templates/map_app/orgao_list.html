@@ -1,12 +1,38 @@
 {% extends "map_app/base.html" %}
+{% load widget_tweaks %}
 {% block body_block %}
-  <ul>
-    {% for orgao in orgao_list %}
-    <li>
-      <div class="orgao">
-        <h4> <a href="{% url 'orgao_detail' pk=orgao.pk %}">{{orgao.nome}}</a> </h4>
+  <form method="get">
+    <div class="jumbotron mr-2 ml-2">
+      <h4 class="mt-2">Filtrar</h4>
+      <div class="row">
+        <div class="form-group col-sm-4 col-md-3">
+          Nome: 
+          {% render_field filter.form.nome class="form-control" %}
+        </div>
       </div>
-    </li>
-    {% endfor %}
-  </ul>
+      <button type="submit" class="btn btn-primary">
+        <span class="glyphicon glyphicon-search"></span> Filtrar
+      </button>
+    </div>
+  </form>
+  <div class = "mr-2 ml-2 conteiner">
+    <table class="table table-bordered" style="margin-top: 5">
+      <thead>
+        <tr>
+          <th>Orgãos: </th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for orgao in filter.qs %}
+            <tr>
+                <td><a href="{% url 'orgao_detail' orgao.id %}">{{ orgao.nome }}</a></td>
+            </tr>
+        {% empty %}
+          <tr>
+            <td colspan="5">Sem resultados</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
 {% endblock %}
