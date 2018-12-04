@@ -19,9 +19,21 @@ class ReclamaView(TemplateView):
         context['despesa'] = Despesa.objects.filter(id = kwargs['pk'])
 
 class InfoView(TemplateView):
-    template_name = 'info.html'
+    template_name = 'map_app/info.html'
+
     def get_context_data(self, **kwargs):
-        context['instituicao'] = Instituicao.objects.all()
-        context['orgao'] = Instituicao.objects.all()
-        context['despesa'] = Despesa.objects.all()
+        context = super(InfoView, self).get_context_data(**kwargs)
+
+        context['despesas_instituicoes'] = self.getInfoInstituicao()
+        context['despesas_orgaos'] = self.getInfoOrgao()
+        context['despesas_obras'] = self.getInfoDespesaObras()
         return context
+
+    def getInfoInstituicao(self):
+        pass
+
+    def getInfoOrgao(self):
+        pass
+
+    def getInfoDespesaObras(self):
+        pass

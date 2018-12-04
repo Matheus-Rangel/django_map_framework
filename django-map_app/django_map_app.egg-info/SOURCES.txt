@@ -38,6 +38,7 @@ map_app/templates/map_app/despesa_detail.html
 map_app/templates/map_app/despesa_form.html
 map_app/templates/map_app/despesa_list.html
 map_app/templates/map_app/home.html
+map_app/templates/map_app/info.html
 map_app/templates/map_app/instituicao_detail.html
 map_app/templates/map_app/instituicao_list.html
 map_app/templates/map_app/orgao_detail.html
