@@ -24,16 +24,16 @@ class InfoView(TemplateView):
     def get_context_data(self, **kwargs):
         context = super(InfoView, self).get_context_data(**kwargs)
 
-        context['despesas_instituicoes'] = self.getInfoInstituicao()
-        context['despesas_orgaos'] = self.getInfoOrgao()
-        context['despesas_obras'] = self.getInfoDespesaObras()
+        context['despesas_instituicoes'] = self.getInfoInstituicao(**kwargs)
+        context['despesas_orgaos'] = self.getInfoOrgao(**kwargs)
+        context['despesas_obras'] = self.getInfoDespesaObras(**kwargs)
         return context
 
-    def getInfoInstituicao(self):
+    def getInfoInstituicao(self, **kwargs):
         pass
 
-    def getInfoOrgao(self):
+    def getInfoOrgao(self, **kwargs):
         pass
 
-    def getInfoDespesaObras(self):
+    def getInfoDespesaObras(self, **kwargs):
         pass
