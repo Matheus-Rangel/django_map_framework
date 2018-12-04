@@ -1,6 +1,7 @@
 from django.urls import path
-from map_app.views.home import HomeView
+from info_app.views import InfoNatalView
 
 urlpatterns = [
-    path('', HomeView.as_view(), name='atualiza'),
+    path('<int:ano>', InfoNatalView.as_view(), name='dados_gerais_ano'),
+    path('', InfoNatalView.as_view(), name='dados_gerais'),
 ]
