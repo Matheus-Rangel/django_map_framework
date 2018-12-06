@@ -33,6 +33,7 @@ map_app/migrations/0001_initial.py
 map_app/migrations/__init__.py
 map_app/static/css/map.css
 map_app/static/js/map.js
+map_app/templates/map_app/atualiza.html
 map_app/templates/map_app/base.html
 map_app/templates/map_app/despesa_detail.html
 map_app/templates/map_app/despesa_form.html
@@ -44,6 +45,7 @@ map_app/templates/map_app/instituicao_list.html
 map_app/templates/map_app/orgao_detail.html
 map_app/templates/map_app/orgao_form.html
 map_app/templates/map_app/orgao_list.html
+map_app/templates/map_app/under_construction.html
 map_app/views/__init__.py
 map_app/views/despesa.py
 map_app/views/flex.py

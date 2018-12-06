@@ -1,0 +1,1010 @@
+[
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 5.527.154,13",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 5.527.154,13",
+  "pago": "R$ 0,00",
+  "elemento": "VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL",
+  "numero": "72 / 2015",
+  "data": "31/12/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 6º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "5.527.154,13",
+    "valor_total": "5.527.154,13"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 5.656.583,20",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 5.656.583,20",
+  "pago": "R$ 0,00",
+  "elemento": "VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL",
+  "numero": "56 / 2015",
+  "data": "30/10/2015",
+  "historico": "RREO 5º BIMESTRE 2015",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "5.656.583,20",
+    "valor_total": "5.656.583,20"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 6.439.887,75",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 6.439.887,75",
+  "pago": "R$ 0,00",
+  "elemento": "VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL",
+  "numero": "36 / 2015",
+  "data": "31/08/2015",
+  "historico": "LANÇAMENTO DA EXECUÇÃO ORÇAMENTÁRIA DA CÂMARA MUNICIPAL DE NATAL - 4º BIMESTRE/2015",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "6.439.887,75",
+    "valor_total": "6.439.887,75"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 7.136.074,77",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 7.136.074,77",
+  "pago": "R$ 0,00",
+  "elemento": "VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL",
+  "numero": "22 / 2015",
+  "data": "30/06/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 3º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "7.136.074,77",
+    "valor_total": "7.136.074,77"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 6.066.119,49",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 6.066.119,49",
+  "pago": "R$ 0,00",
+  "elemento": "VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL",
+  "numero": "2 / 2015",
+  "data": "27/02/2015",
+  "historico": "",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "6.066.119,49",
+    "valor_total": "6.066.119,49"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 6.596.039,69",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 6.596.039,69",
+  "pago": "R$ 0,00",
+  "elemento": "VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL",
+  "numero": "14 / 2015",
+  "data": "30/04/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 2º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "6.596.039,69",
+    "valor_total": "6.596.039,69"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 30.000,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 30.000,00",
+  "pago": "R$ 0,00",
+  "elemento": "SERVICOS DE CONSULTORIA",
+  "numero": "7 / 2015",
+  "data": "27/02/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 1º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "30.000,00",
+    "valor_total": "30.000,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 20.000,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 20.000,00",
+  "pago": "R$ 0,00",
+  "elemento": "SERVICOS DE CONSULTORIA",
+  "numero": "69 / 2015",
+  "data": "31/12/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 6º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "20.000,00",
+    "valor_total": "20.000,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 1.210.056,87",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 1.210.056,87",
+  "pago": "R$ 0,00",
+  "elemento": "PASSAGENS E DESPESAS COM LOCOMOCAO",
+  "numero": "73 / 2015",
+  "data": "31/12/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 6º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "1.210.056,87",
+    "valor_total": "1.210.056,87"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 1.095.428,03",
+  "anulado": "R$ 86.706,26",
+  "liquidado": "R$ 1.008.721,77",
+  "pago": "R$ 86.706,26",
+  "elemento": "PASSAGENS E DESPESAS COM LOCOMOCAO",
+  "numero": "63 / 2015",
+  "data": "30/10/2015",
+  "historico": "",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "1.095.428,03",
+    "valor_total": "1.095.428,03"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 100.000,00",
+  "anulado": "R$ 72.239,11",
+  "liquidado": "R$ 27.760,89",
+  "pago": "R$ 72.239,11",
+  "elemento": "PASSAGENS E DESPESAS COM LOCOMOCAO",
+  "numero": "6 / 2015",
+  "data": "27/02/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 1º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "100.000,00",
+    "valor_total": "100.000,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 1.039.927,77",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 1.039.927,77",
+  "pago": "R$ 0,00",
+  "elemento": "PASSAGENS E DESPESAS COM LOCOMOCAO",
+  "numero": "51 / 2015",
+  "data": "31/08/2015",
+  "historico": "RREO 4º BIMESTRE",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "1.039.927,77",
+    "valor_total": "1.039.927,77"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 1.039.418,11",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 1.039.418,11",
+  "pago": "R$ 0,00",
+  "elemento": "PASSAGENS E DESPESAS COM LOCOMOCAO",
+  "numero": "32 / 2015",
+  "data": "30/06/2015",
+  "historico": "LANÇAMENTO DA EXECUÇÃO ORÇAMENTÁRIA DA CÂMARA MUNICIPAL DE NATAL - 3º BIMESTRE/2015",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "1.039.418,11",
+    "valor_total": "1.039.418,11"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 984.390,52",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 984.390,52",
+  "pago": "R$ 0,00",
+  "elemento": "PASSAGENS E DESPESAS COM LOCOMOCAO",
+  "numero": "20 / 2015",
+  "data": "30/04/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 2º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "984.390,52",
+    "valor_total": "984.390,52"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 733.209,19",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 733.209,19",
+  "pago": "R$ 0,00",
+  "elemento": "PASSAGENS E DESPESAS COM LOCOMOCAO",
+  "numero": "11 / 2015",
+  "data": "27/02/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 1º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "733.209,19",
+    "valor_total": "733.209,19"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 1.274.669,22",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 1.274.669,22",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "9 / 2015",
+  "data": "27/02/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 1º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "1.274.669,22",
+    "valor_total": "1.274.669,22"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 122.241,03",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 122.241,03",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "77 / 2015",
+  "data": "31/12/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 6º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "122.241,03",
+    "valor_total": "122.241,03"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 773.196,34",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 773.196,34",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "71 / 2015",
+  "data": "31/12/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 6º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "773.196,34",
+    "valor_total": "773.196,34"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 4.969,02",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 4.969,02",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "67 / 2015",
+  "data": "31/12/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 6º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "4.969,02",
+    "valor_total": "4.969,02"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 494.485,40",
+  "anulado": "R$ 122.362,78",
+  "liquidado": "R$ 372.122,62",
+  "pago": "R$ 122.362,78",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "64 / 2015",
+  "data": "30/10/2015",
+  "historico": "",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "494.485,40",
+    "valor_total": "494.485,40"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 96.613,34",
+  "anulado": "R$ 909,36",
+  "liquidado": "R$ 95.703,98",
+  "pago": "R$ 909,36",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "60 / 2015",
+  "data": "30/10/2015",
+  "historico": "RREO 5º BIMESTRE 2015",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "96.613,34",
+    "valor_total": "96.613,34"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 165.998,40",
+  "anulado": "R$ 161.906,52",
+  "liquidado": "R$ 4.091,88",
+  "pago": "R$ 161.906,52",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "54 / 2015",
+  "data": "31/08/2015",
+  "historico": "",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "165.998,40",
+    "valor_total": "165.998,40"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 16.467,40",
+  "anulado": "R$ 16.074,30",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 16.074,30",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "50 / 2015",
+  "data": "31/08/2015",
+  "historico": "",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "16.467,40",
+    "valor_total": "16.467,40"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 618.674,49",
+  "anulado": "R$ 320.542,04",
+  "liquidado": "R$ 298.132,45",
+  "pago": "R$ 320.542,04",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "5 / 2015",
+  "data": "27/02/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 1º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "618.674,49",
+    "valor_total": "618.674,49"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 4.730,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "49 / 2015",
+  "data": "31/08/2015",
+  "historico": "",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "4.730,00",
+    "valor_total": "4.730,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 25.000,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 25.000,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS - PESSOA FISICA",
+  "numero": "8 / 2015",
+  "data": "27/02/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 1º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "25.000,00",
+    "valor_total": "25.000,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 57.787,00",
+  "anulado": "R$ 5.756,13",
+  "liquidado": "R$ 52.030,87",
+  "pago": "R$ 5.756,13",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS - PESSOA FISICA",
+  "numero": "27 / 2015",
+  "data": "30/06/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 3º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "57.787,00",
+    "valor_total": "57.787,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 17.500,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 17.500,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTRAS DESPESAS VARIAVEIS - PESSOAL CIVIL",
+  "numero": "75 / 2015",
+  "data": "31/12/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 6º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "17.500,00",
+    "valor_total": "17.500,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 28.100,00",
+  "anulado": "R$ 3.840,00",
+  "liquidado": "R$ 24.260,00",
+  "pago": "R$ 3.840,00",
+  "elemento": "OUTRAS DESPESAS VARIAVEIS - PESSOAL CIVIL",
+  "numero": "58 / 2015",
+  "data": "30/10/2015",
+  "historico": "RREO 5º BIMESTRE 2015",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "28.100,00",
+    "valor_total": "28.100,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 26.020,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 26.020,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTRAS DESPESAS VARIAVEIS - PESSOAL CIVIL",
+  "numero": "38 / 2015",
+  "data": "31/08/2015",
+  "historico": "LANÇAMENTO DA EXECUÇÃO ORÇAMENTÁRIA DA CÂMARA MUNICIPAL DE NATAL - 4º BIMESTRE/2015",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "26.020,00",
+    "valor_total": "26.020,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 11.320,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 11.320,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTRAS DESPESAS VARIAVEIS - PESSOAL CIVIL",
+  "numero": "3 / 2015",
+  "data": "27/02/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 1º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "11.320,00",
+    "valor_total": "11.320,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 23.620,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 23.620,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTRAS DESPESAS VARIAVEIS - PESSOAL CIVIL",
+  "numero": "24 / 2015",
+  "data": "30/06/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 3º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "23.620,00",
+    "valor_total": "23.620,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 30.260,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 30.260,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTRAS DESPESAS VARIAVEIS - PESSOAL CIVIL",
+  "numero": "16 / 2015",
+  "data": "30/04/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 2º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "30.260,00",
+    "valor_total": "30.260,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 315,75",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 315,75",
+  "pago": "R$ 0,00",
+  "elemento": "OBRIGACOES TRIBUTARIAS E CONTRIBUTIVAS",
+  "numero": "29 / 2015",
+  "data": "30/06/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 3º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "315,75",
+    "valor_total": "315,75"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 333.174,36",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 333.174,36",
+  "pago": "R$ 0,00",
+  "elemento": "OBRIGACOES PATRONAIS",
+  "numero": "66 / 2015",
+  "data": "31/12/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 6º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "333.174,36",
+    "valor_total": "333.174,36"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 819.504,62",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 819.504,62",
+  "pago": "R$ 0,00",
+  "elemento": "OBRIGACOES PATRONAIS",
+  "numero": "57 / 2015",
+  "data": "30/10/2015",
+  "historico": "RREO 5º BIMESTRE 2015",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "819.504,62",
+    "valor_total": "819.504,62"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 288.646,52",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 288.646,52",
+  "pago": "R$ 0,00",
+  "elemento": "OBRIGACOES PATRONAIS",
+  "numero": "4 / 2015",
+  "data": "27/02/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 1º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "288.646,52",
+    "valor_total": "288.646,52"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 381.496,38",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 381.496,38",
+  "pago": "R$ 0,00",
+  "elemento": "OBRIGACOES PATRONAIS",
+  "numero": "37 / 2015",
+  "data": "31/08/2015",
+  "historico": "LANÇAMENTO DA EXECUÇÃO ORÇAMENTÁRIA DA CÂMARA MUNICIPAL DE NATAL - 4º BIMESTRE/2015",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "381.496,38",
+    "valor_total": "381.496,38"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 517.772,70",
+  "anulado": "R$ 117.826,70",
+  "liquidado": "R$ 399.946,00",
+  "pago": "R$ 117.826,70",
+  "elemento": "OBRIGACOES PATRONAIS",
+  "numero": "23 / 2015",
+  "data": "30/06/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 3º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "517.772,70",
+    "valor_total": "517.772,70"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 877.549,36",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 877.549,36",
+  "pago": "R$ 0,00",
+  "elemento": "OBRIGACOES PATRONAIS",
+  "numero": "15 / 2015",
+  "data": "30/04/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 2º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "877.549,36",
+    "valor_total": "877.549,36"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 40.576,64",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 40.576,64",
+  "pago": "R$ 0,00",
+  "elemento": "MATERIAL DE CONSUMO",
+  "numero": "76 / 2015",
+  "data": "31/12/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 6º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "40.576,64",
+    "valor_total": "40.576,64"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 2.101,60",
+  "anulado": "R$ 26,40",
+  "liquidado": "R$ 2.075,20",
+  "pago": "R$ 26,40",
+  "elemento": "MATERIAL DE CONSUMO",
+  "numero": "70 / 2015",
+  "data": "31/12/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 6º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "2.101,60",
+    "valor_total": "2.101,60"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 55.296,71",
+  "anulado": "R$ 55.296,71",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 55.296,71",
+  "elemento": "MATERIAL DE CONSUMO",
+  "numero": "62 / 2015",
+  "data": "30/10/2015",
+  "historico": "RREO 5º BIMESTRE 2015",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "55.296,71",
+    "valor_total": "55.296,71"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 157.626,35",
+  "anulado": "R$ 12.312,87",
+  "liquidado": "R$ 145.313,48",
+  "pago": "R$ 12.312,87",
+  "elemento": "MATERIAL DE CONSUMO",
+  "numero": "48 / 2015",
+  "data": "31/08/2015",
+  "historico": "",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "157.626,35",
+    "valor_total": "157.626,35"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 68.675,02",
+  "anulado": "R$ 17.658,71",
+  "liquidado": "R$ 51.016,31",
+  "pago": "R$ 17.658,71",
+  "elemento": "MATERIAL DE CONSUMO",
+  "numero": "26 / 2015",
+  "data": "30/06/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 3º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "68.675,02",
+    "valor_total": "68.675,02"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 87.299,00",
+  "anulado": "R$ 4.767,42",
+  "liquidado": "R$ 69.605,68",
+  "pago": "R$ 4.767,42",
+  "elemento": "MATERIAL DE CONSUMO",
+  "numero": "17 / 2015",
+  "data": "30/04/2015",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 2º Bimestre/2015.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "87.299,00",
+    "valor_total": "87.299,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 33.143,64",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 33.143,64",
+  "pago": "R$ 0,00",
+  "elemento": "LOCACAO DE MAO-DE-OBRA",
+  "numero": "44 / 2015",
+  "data": "30/04/2015",
+  "historico": "RREO 2º BIMESTRE",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "33.143,64",
+    "valor_total": "33.143,64"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 1.035.923,76",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 1.035.923,76",
+  "pago": "R$ 0,00",
+  "elemento": "LOCACAO DE MAO-DE-OBRA",
+  "numero": "40 / 2015",
+  "data": "28/02/2015",
+  "historico": "Lançamento da Execução orçamentária da Câmara Municipal de Natal - 1º Bimestre",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "1.035.923,76",
+    "valor_total": "1.035.923,76"
+   }
+  ]
+ }
+]

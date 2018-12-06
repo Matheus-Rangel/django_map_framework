@@ -1,0 +1,905 @@
+[
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 639,46",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL",
+  "numero": "84 / 2017",
+  "data": "29/12/2017",
+  "historico": "LANÇAMENTO CMN RREO 6º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "639,46",
+    "valor_total": "639,46"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 7.500.908,22",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 7.500.908,22",
+  "pago": "R$ 0,00",
+  "elemento": "VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL",
+  "numero": "73 / 2017",
+  "data": "29/12/2017",
+  "historico": "LANÇAMENTO CMN RREO 6º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "7.500.908,22",
+    "valor_total": "7.500.908,22"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 6.460.391,59",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 6.460.391,59",
+  "pago": "R$ 0,00",
+  "elemento": "VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL",
+  "numero": "63 / 2017",
+  "data": "31/10/2017",
+  "historico": "",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "6.460.391,59",
+    "valor_total": "6.460.391,59"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 7.023.011,80",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 7.023.011,80",
+  "pago": "R$ 0,00",
+  "elemento": "VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL",
+  "numero": "53 / 2017",
+  "data": "31/08/2017",
+  "historico": "LANÇAMENTO RREO 4º BIM/2017 CMN",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "7.023.011,80",
+    "valor_total": "7.023.011,80"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 7.498.420,81",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 7.498.420,81",
+  "pago": "R$ 0,00",
+  "elemento": "VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL",
+  "numero": "40 / 2017",
+  "data": "30/06/2017",
+  "historico": "LANÇAMENTO CMN RREO 3º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "7.498.420,81",
+    "valor_total": "7.498.420,81"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 7.073.235,24",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 7.073.235,24",
+  "pago": "R$ 0,00",
+  "elemento": "VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL",
+  "numero": "26 / 2017",
+  "data": "30/04/2017",
+  "historico": "LANÇAMENTO CMN RREO 2º BIM.2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "7.073.235,24",
+    "valor_total": "7.073.235,24"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 6.937.198,54",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 6.937.198,54",
+  "pago": "R$ 0,00",
+  "elemento": "VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL",
+  "numero": "2 / 2017",
+  "data": "28/02/2017",
+  "historico": "LANÇAMENTO CMN RREO 1º BIM.2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "6.937.198,54",
+    "valor_total": "6.937.198,54"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 13.500,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 13.500,00",
+  "pago": "R$ 0,00",
+  "elemento": "SERVICOS DE CONSULTORIA",
+  "numero": "10 / 2017",
+  "data": "28/02/2017",
+  "historico": "LANÇAMENTO CMN RREO 1º BIM.2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "13.500,00",
+    "valor_total": "13.500,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 345.816,06",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 345.816,06",
+  "pago": "R$ 0,00",
+  "elemento": "SENTENCAS JUDICIAIS",
+  "numero": "34 / 2017",
+  "data": "30/04/2017",
+  "historico": "LANÇAMENTO CMN RREO 2º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "345.816,06",
+    "valor_total": "345.816,06"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 80.000,00",
+  "anulado": "R$ 63.362,60",
+  "liquidado": "R$ 16.637,40",
+  "pago": "R$ 63.362,60",
+  "elemento": "PASSAGENS E DESPESAS COM LOCOMOCAO",
+  "numero": "9 / 2017",
+  "data": "28/02/2017",
+  "historico": "LANÇAMENTO CMN RREO 1º BIM.2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "80.000,00",
+    "valor_total": "80.000,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 11.250,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "91 / 2017",
+  "data": "29/12/2017",
+  "historico": "lançamento cmn rreo 6º bim/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "11.250,00",
+    "valor_total": "11.250,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 100,01",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "90 / 2017",
+  "data": "29/12/2017",
+  "historico": "lançamento cmn rreo 6º bim/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "100,01",
+    "valor_total": "100,01"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 127.276,48",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 127.276,48",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "87 / 2017",
+  "data": "29/12/2017",
+  "historico": "LANÇAMENTO CMN RREO 6º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "127.276,48",
+    "valor_total": "127.276,48"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 23.862,85",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 22.624,79",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "82 / 2017",
+  "data": "29/12/2017",
+  "historico": "LANÇAMENTO CMN RREO 6º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "23.862,85",
+    "valor_total": "23.862,85"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 259.419,75",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 259.419,75",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "81 / 2017",
+  "data": "29/12/2017",
+  "historico": "LANÇAMENTO CMN RREO 6º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "259.419,75",
+    "valor_total": "259.419,75"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 2.519,10",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 2.519,10",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "78 / 2017",
+  "data": "29/12/2017",
+  "historico": "LANÇAMENTO CMN RREO 6º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "2.519,10",
+    "valor_total": "2.519,10"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 13.435,90",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 13.435,90",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "77 / 2017",
+  "data": "29/12/2017",
+  "historico": "LANÇAMENTO CMN RREO 6º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "13.435,90",
+    "valor_total": "13.435,90"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 4.019,80",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "71 / 2017",
+  "data": "31/10/2017",
+  "historico": "LANÇAMENTO CMN RREO 5º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "4.019,80",
+    "valor_total": "4.019,80"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 642.138,75",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 642.138,75",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "69 / 2017",
+  "data": "31/10/2017",
+  "historico": "LANÇAMENTO CMN RREO 5º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "642.138,75",
+    "valor_total": "642.138,75"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 2.518,50",
+  "anulado": "R$ 1.117,62",
+  "liquidado": "R$ 857,44",
+  "pago": "R$ 1.117,62",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "58 / 2017",
+  "data": "31/08/2017",
+  "historico": "LANÇAMENTO CMN RREO 4º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "2.518,50",
+    "valor_total": "2.518,50"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 16.445,55",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS- PESSOA JURIDICA",
+  "numero": "67 / 2017",
+  "data": "31/10/2017",
+  "historico": "LANÇAMENTO CMN RREO 5º BIM.2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "16.445,55",
+    "valor_total": "16.445,55"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 56.478,55",
+  "anulado": "R$ 0,27",
+  "liquidado": "R$ 56.478,28",
+  "pago": "R$ 0,27",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS- PESSOA JURIDICA",
+  "numero": "47 / 2017",
+  "data": "30/06/2017",
+  "historico": "LANÇAMENTO CMN RREO 3º BIM.2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "56.478,55",
+    "valor_total": "56.478,55"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 28.600,35",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 28.600,35",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS - PESSOA FISICA",
+  "numero": "86 / 2017",
+  "data": "29/12/2017",
+  "historico": "LANÇAMENTO CMN RREO 6º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "28.600,35",
+    "valor_total": "28.600,35"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 61.953,52",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 61.953,52",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS - PESSOA FISICA",
+  "numero": "45 / 2017",
+  "data": "30/06/2017",
+  "historico": "LANÇAMENTO CMN RREO 3º BIM.2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "61.953,52",
+    "valor_total": "61.953,52"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 30.976,76",
+  "anulado": "R$ 336,48",
+  "liquidado": "R$ 30.640,28",
+  "pago": "R$ 336,48",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS - PESSOA FISICA",
+  "numero": "11 / 2017",
+  "data": "28/02/2017",
+  "historico": "LANÇAMENTO CMN RREO 1º BIM.2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "30.976,76",
+    "valor_total": "30.976,76"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 21.000,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 21.000,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTRAS DESPESAS VARIAVEIS - PESSOAL CIVIL",
+  "numero": "75 / 2017",
+  "data": "29/12/2017",
+  "historico": "LANÇAMENTO CMN RREO 6º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "21.000,00",
+    "valor_total": "21.000,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 18.590,00",
+  "anulado": "R$ 1.200,00",
+  "liquidado": "R$ 17.390,00",
+  "pago": "R$ 1.200,00",
+  "elemento": "OUTRAS DESPESAS VARIAVEIS - PESSOAL CIVIL",
+  "numero": "65 / 2017",
+  "data": "31/10/2017",
+  "historico": "",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "18.590,00",
+    "valor_total": "18.590,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 14.400,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 14.400,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTRAS DESPESAS VARIAVEIS - PESSOAL CIVIL",
+  "numero": "55 / 2017",
+  "data": "31/08/2017",
+  "historico": "LANÇAMENTO RREO 4º BIM.2017 CMN",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "14.400,00",
+    "valor_total": "14.400,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 25.950,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 25.950,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTRAS DESPESAS VARIAVEIS - PESSOAL CIVIL",
+  "numero": "42 / 2017",
+  "data": "30/06/2017",
+  "historico": "LANÇAMENTO CMN RREO 3º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "25.950,00",
+    "valor_total": "25.950,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 2.400,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 2.400,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTRAS DESPESAS VARIAVEIS - PESSOAL CIVIL",
+  "numero": "4 / 2017",
+  "data": "28/02/2017",
+  "historico": "LANÇAMENTO CMN RREO 1º BIM.2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "2.400,00",
+    "valor_total": "2.400,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 19.900,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 19.900,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTRAS DESPESAS VARIAVEIS - PESSOAL CIVIL",
+  "numero": "28 / 2017",
+  "data": "30/04/2017",
+  "historico": "LANÇAMENTO CMN RREO 2º BIM.2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "19.900,00",
+    "valor_total": "19.900,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 553.269,43",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 1,00",
+  "pago": "R$ 0,00",
+  "elemento": "OBRIGACOES PATRONAIS",
+  "numero": "89 / 2017",
+  "data": "29/12/2017",
+  "historico": "LANÇAMENTO CMN RREO 6º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "553.269,43",
+    "valor_total": "553.269,43"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 216.432,33",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 216.432,33",
+  "pago": "R$ 0,00",
+  "elemento": "OBRIGACOES PATRONAIS",
+  "numero": "74 / 2017",
+  "data": "29/12/2017",
+  "historico": "LANÇAMENTO CMN RREO 6º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "216.432,33",
+    "valor_total": "216.432,33"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 75.886,45",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 75.886,45",
+  "pago": "R$ 0,00",
+  "elemento": "OBRIGACOES PATRONAIS",
+  "numero": "64 / 2017",
+  "data": "31/10/2017",
+  "historico": "",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "75.886,45",
+    "valor_total": "75.886,45"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 45.702,73",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 45.702,73",
+  "pago": "R$ 0,00",
+  "elemento": "OBRIGACOES PATRONAIS",
+  "numero": "54 / 2017",
+  "data": "31/08/2017",
+  "historico": "lançamento rreo 4º bim.2017 cmn",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "45.702,73",
+    "valor_total": "45.702,73"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 70.213,71",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 70.213,71",
+  "pago": "R$ 0,00",
+  "elemento": "OBRIGACOES PATRONAIS",
+  "numero": "41 / 2017",
+  "data": "30/06/2017",
+  "historico": "LANÇAMENTO CMN RREO 3º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "70.213,71",
+    "valor_total": "70.213,71"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 2.968.402,37",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 2.968.402,37",
+  "pago": "R$ 0,00",
+  "elemento": "OBRIGACOES PATRONAIS",
+  "numero": "3 / 2017",
+  "data": "28/02/2017",
+  "historico": "LANÇAMENTO CMN RREO 1º BIM.2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "2.968.402,37",
+    "valor_total": "2.968.402,37"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 74.599,89",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 74.599,89",
+  "pago": "R$ 0,00",
+  "elemento": "OBRIGACOES PATRONAIS",
+  "numero": "27 / 2017",
+  "data": "30/04/2017",
+  "historico": "LANÇAMENTO CMN RREO 2º BIM.2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "74.599,89",
+    "valor_total": "74.599,89"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 178.691,25",
+  "anulado": "R$ 157.599,33",
+  "liquidado": "R$ 21.091,92",
+  "pago": "R$ 157.599,33",
+  "elemento": "MATERIAL DE CONSUMO",
+  "numero": "8 / 2017",
+  "data": "28/02/2017",
+  "historico": "LANÇAMENTO CMN RREO 1º BIM.2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "178.691,25",
+    "valor_total": "178.691,25"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 17.982,34",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 17.982,34",
+  "pago": "R$ 0,00",
+  "elemento": "MATERIAL DE CONSUMO",
+  "numero": "76 / 2017",
+  "data": "29/12/2017",
+  "historico": "LANÇAMENTO CMN RREO 6º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "17.982,34",
+    "valor_total": "17.982,34"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 15.426,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 15.426,00",
+  "pago": "R$ 0,00",
+  "elemento": "MATERIAL DE CONSUMO",
+  "numero": "57 / 2017",
+  "data": "31/08/2017",
+  "historico": "lançamento cmn rreo 4º bim.2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "15.426,00",
+    "valor_total": "15.426,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 64.537,11",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 64.537,11",
+  "pago": "R$ 0,00",
+  "elemento": "MATERIAL DE CONSUMO",
+  "numero": "49 / 2017",
+  "data": "30/06/2017",
+  "historico": "LANÇAMENTO CMN RREO 3º BIM.2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "64.537,11",
+    "valor_total": "64.537,11"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 193.640,98",
+  "anulado": "R$ 8.322,79",
+  "liquidado": "R$ 185.318,19",
+  "pago": "R$ 8.322,79",
+  "elemento": "MATERIAL DE CONSUMO",
+  "numero": "30 / 2017",
+  "data": "30/04/2017",
+  "historico": "LANÇAMENTO CMN RREO 2º BIM/2017",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "193.640,98",
+    "valor_total": "193.640,98"
+   }
+  ]
+ }
+]
