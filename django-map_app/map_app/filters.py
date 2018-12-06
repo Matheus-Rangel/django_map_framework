@@ -3,7 +3,7 @@ import django_filters
 
 class DespesaFilter(django_filters.FilterSet):
     elemento = django_filters.CharFilter(lookup_expr='icontains')
-    data_inicio = django_filters.NumberFilter(lookup_expr='year')
+    data_inicio = django_filters.NumberFilter(lookup_expr='year', initial='2018')
     orgao_instituicao__orgao__nome = django_filters.CharFilter(lookup_expr='icontains')
     orgao_instituicao__instituicao__nome = django_filters.CharFilter(lookup_expr='icontains')
     class Meta:

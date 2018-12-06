@@ -38,10 +38,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.humanize',
+    'atualiza_app',
     'map_app',
     'django_extensions',
     'rest_framework',
-    'atualiza_app',
     'widget_tweaks',
 ]
 
