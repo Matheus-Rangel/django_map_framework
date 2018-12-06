@@ -1,2 +1,7 @@
 __pycache__/
 .vscode/
+django-map_app/django_map_app.egg-info/top_level.txt
+django-map_app/django_map_app.egg-info/dependency_links.txt
+vigia_fortaleza/db.sqlite3
+.idea/
+vigia_fortaleza/vigia_fortal/

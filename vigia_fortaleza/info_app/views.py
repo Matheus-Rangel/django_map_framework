@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 from django.shortcuts import render
 
-# Create your views here.
-=======
 import json
 import os
 from django.shortcuts import render
@@ -22,4 +20,3 @@ class InfoFortalezaView(InfoView):
         with open(path + '\static\json\despesas_funcoes.json', encoding="utf8") as json_file:
             json_data = json.load(json_file)
         return json_data
->>>>>>> 6879de9222511f9eb45f5e504f23d2199e93f63f
