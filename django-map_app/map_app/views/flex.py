@@ -27,13 +27,17 @@ class InfoView(TemplateView):
         context['despesas_instituicoes'] = self.getInfoInstituicao()
         context['despesas_orgaos'] = self.getInfoOrgao()
         context['despesas_obras'] = self.getInfoDespesaObras()
+        context['despesas_funcoes'] = self.getInfoDespesaFuncoes()
         return context
 
     def getInfoInstituicao(self):
-        pass
+        return ""
 
     def getInfoOrgao(self):
-        pass
+        return ""
 
     def getInfoDespesaObras(self):
-        pass
+        return ""
+
+    def getInfoDespesaFuncoes(self):
+        return ""
