@@ -1,0 +1,194 @@
+[
+    {
+      
+      "Função": "LEGISLATIVA",
+      "Empenhado": "189.871.749,00",
+      "Liquidado": "156.072.235,06",
+      "Pago": "156.072.235,06",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "JUDICIARIA",
+      "Empenhado": "44.977.456,00",
+      "Liquidado": "35.727.983,57",
+      "Pago": "35.727.983,57",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "ESSENCIAL A JUSTICA",
+      "Empenhado": "643.000,00",
+      "Liquidado": "244.025,91",
+      "Pago": "244.025,91",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "ADMINISTRACAO",
+      "Empenhado": "706.776.009,00",
+      "Liquidado": "640.993.175,39",
+      "Pago": "640.993.175,39",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "SEGURANCA PUBLICA",
+      "Empenhado": "286.737.518,00",
+      "Liquidado": "226.363.679,16",
+      "Pago": "226.363.679,16",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "ASSISTENCIA SOCIAL",
+      "Empenhado": "148.311.704,00",
+      "Liquidado": "79.572.035,38",
+      "Pago": "79.572.035,38",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "PREVIDENCIA SOCIAL",
+      "Empenhado": "796.930.029,00",
+      "Liquidado": "724.566.366,00",
+      "Pago": "724.566.366,00",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "SAUDE",
+      "Empenhado": "2.297.888.010,00",
+      "Liquidado": "1.943.480.760,71",
+      "Pago": "1.943.480.760,71",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "TRABALHO",
+      "Empenhado": "7.701.566,00",
+      "Liquidado": "1.219.071,07",
+      "Pago": "1.219.071,07",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "EDUCACAO",
+      "Empenhado": "1.622.768.822,00",
+      "Liquidado": "1.287.621.225,9",
+      "Pago": "1.287.621.225,9",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "CULTURA",
+      "Empenhado": "95.069.137,00",
+      "Liquidado": "59.784.200,2",
+      "Pago": "59.784.200,2",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "DIREITOS DA CIDADANIA",
+      "Empenhado": "61.587.130,00",
+      "Liquidado": "29.679.259,26",
+      "Pago": "29.679.259,26",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "URBANISMO",
+      "Empenhado": "697.903.411,00",
+      "Liquidado": "725.203.268,72",
+      "Pago": "725.203.268,72",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "HABITACAO",
+      "Empenhado": "71.866.257,00",
+      "Liquidado": "29.304.845,55",
+      "Pago": "29.304.845,55",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "SANEAMENTO",
+      "Empenhado": "2.600.000,00",
+      "Liquidado": "0,00",
+      "Pago": "0,00",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "GESTAO AMBIENTAL",
+      "Empenhado": "78.605.831,00",
+      "Liquidado": "58.055.219,4",
+      "Pago": "58.055.219,4",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "CIENCIA E TECNOLOGIA",
+      "Empenhado": "6.220.782,00",
+      "Liquidado": "4.074.611,19",
+      "Pago": "4.074.611,19",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "AGRICULTURA",
+      "Empenhado": "1.160.000,00",
+      "Liquidado": "0,00",
+      "Pago": "0,00",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "COMERCIO E SERVICOS",
+      "Empenhado": "31.212.917,00",
+      "Liquidado": "5.864.775,94",
+      "Pago": "5.864.775,94",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "COMUNICACOES",
+      "Empenhado": "7.832.938,00",
+      "Liquidado": "8.672.250,00",
+      "Pago": "8.672.250,00",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "ENERGIA",
+      "Empenhado": "101.564.390,00",
+      "Liquidado": "61.465.685,36",
+      "Pago": "61.465.685,36",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "DESPORTO E LAZER",
+      "Empenhado": "20.772.881,00",
+      "Liquidado": "8.238.390,27",
+      "Pago": "8.238.390,27",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "ENCARGOS ESPECIAIS",
+      "Empenhado": "269.235.083,00",
+      "Liquidado": "222.288.630,38",
+      "Pago": "222.288.630,38",
+      "Anulado": "0,00"
+    },
+    {
+      
+      "Função": "RESERVA DE CONTINGENCIA",
+      "Empenhado": "157.883,00",
+      "Liquidado": "0,00",
+      "Pago": "0,00",
+      "Anulado": "0,00"
+    }
+]
