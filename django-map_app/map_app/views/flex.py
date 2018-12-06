@@ -98,7 +98,7 @@ class AtualizaView(TemplateView):
 class ReclamaView(TemplateView):
     template_name = 'map_app/reclama.html'
     def get_context_data(self, **kwargs):
-        context['despesa'] = Despesa.objects.filter(id = kwargs['pk'])
+        pass
 
 class InfoView(TemplateView):
     template_name = 'map_app/info.html'

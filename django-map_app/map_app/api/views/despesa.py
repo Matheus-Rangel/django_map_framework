@@ -16,7 +16,7 @@ class DespesaOrgaoListAPIView(ListAPIView):
     def get_queryset(self):
         o = self.kwargs['orgao']
         ano = self.kwargs['ano']
-        return Despesa.objects.filter(orgao = o, data_inicio__year = ano)
+        return Despesa.objects.filter(orgao_instituicao__orgao = o, data_inicio__year = ano)
 
 class DespesaInstituicaoListAPIView(ListAPIView):
     serializer_class = DespesaSerializer
@@ -24,10 +24,7 @@ class DespesaInstituicaoListAPIView(ListAPIView):
     def get_queryset(self):
         i = self.kwargs['instituicao']
         ano = self.kwargs['ano']
-        orgaos = Orgao.objects.filter(instituicao = i)
-        despesas = []
-        for o in orgaos:
-            return Despesa.objects.filter(orgao = o, data_inicio__year = ano)
+        return Despesa.objects.filter(orgao_instituicao__instituicao = i, data_inicio__year = ano)
 
 class DespesaLocalizacaoListAPIView(ListAPIView):
     serializer_class = DespesaSerializer

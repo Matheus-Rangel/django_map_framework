@@ -1,0 +1,863 @@
+[
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 7.867.072,94",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 7.544.267,86",
+  "pago": "R$ 0,00",
+  "elemento": "VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL",
+  "numero": "64 / 2018",
+  "data": "31/10/2018",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 5º Bimestre/2018.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "7.867.072,94",
+    "valor_total": "7.867.072,94"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 7.761.791,36",
+  "anulado": "R$ 1.014,06",
+  "liquidado": "R$ 7.644.776,56",
+  "pago": "R$ 1.014,06",
+  "elemento": "VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL",
+  "numero": "50 / 2018",
+  "data": "31/08/2018",
+  "historico": "LANÇAMENTO RREO 4º BIM/2018 CMN",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "7.761.791,36",
+    "valor_total": "7.761.791,36"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 9.549.952,74",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 9.200.700,86",
+  "pago": "R$ 0,00",
+  "elemento": "VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL",
+  "numero": "35 / 2018",
+  "data": "29/06/2018",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 3º Bim/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "9.549.952,74",
+    "valor_total": "9.549.952,74"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 7.399.792,02",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 7.358.364,74",
+  "pago": "R$ 0,00",
+  "elemento": "VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL",
+  "numero": "2 / 2018",
+  "data": "28/02/2018",
+  "historico": "LANÇAMENTO CMN RREO 1º BIM/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "7.399.792,02",
+    "valor_total": "7.399.792,02"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 7.710.109,85",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 7.698.948,62",
+  "pago": "R$ 0,00",
+  "elemento": "VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL",
+  "numero": "18 / 2018",
+  "data": "30/04/2018",
+  "historico": "LANÇAMENTO RREO 2º BIM/2018 CMN",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "7.710.109,85",
+    "valor_total": "7.710.109,85"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 979.812,17",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 576.360,10",
+  "pago": "R$ 0,00",
+  "elemento": "SENTENCAS JUDICIAIS",
+  "numero": "32 / 2018",
+  "data": "30/04/2018",
+  "historico": "LANÇAMENTO CMN RREO 2º BIM/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "979.812,17",
+    "valor_total": "979.812,17"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 5.123,41",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 5.111,42",
+  "pago": "R$ 0,00",
+  "elemento": "PASSAGENS E DESPESAS COM LOCOMOCAO",
+  "numero": "23 / 2018",
+  "data": "30/04/2018",
+  "historico": "LANÇAMENTO CMN RREO 2º BIM/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "5.123,41",
+    "valor_total": "5.123,41"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 16.500,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "68 / 2018",
+  "data": "31/10/2018",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 5º Bimestre/2018.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "16.500,00",
+    "valor_total": "16.500,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 60.538,73",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "67 / 2018",
+  "data": "31/10/2018",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 5º Bimestre/2018.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "60.538,73",
+    "valor_total": "60.538,73"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 606,21",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "66 / 2018",
+  "data": "31/10/2018",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 5º Bimestre/2018.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "606,21",
+    "valor_total": "606,21"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 5.690,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "61 / 2018",
+  "data": "31/08/2018",
+  "historico": "LANÇAMENTO RREO 4º BIM/2018 CMN",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "5.690,00",
+    "valor_total": "5.690,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 143.437,22",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "59 / 2018",
+  "data": "31/08/2018",
+  "historico": "LANÇAMENTO RREO 4º BIM/2018 CMN",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "143.437,22",
+    "valor_total": "143.437,22"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 2.720,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "55 / 2018",
+  "data": "31/08/2018",
+  "historico": "LANÇAMENTO RREO 4º BIM/2018 CMN",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "2.720,00",
+    "valor_total": "2.720,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 61.620,79",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 61.620,79",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "52 / 2018",
+  "data": "31/08/2018",
+  "historico": "LANÇAMENTO RREO 4º BIM/2018 CMN",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "61.620,79",
+    "valor_total": "61.620,79"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 431.074,81",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 272.197,50",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "5 / 2018",
+  "data": "28/02/2018",
+  "historico": "LANÇAMENTO CMN RREO 1º BIM/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "431.074,81",
+    "valor_total": "431.074,81"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 232.088,38",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 232.088,38",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "45 / 2018",
+  "data": "29/06/2018",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 3º Bim/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "232.088,38",
+    "valor_total": "232.088,38"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 7.940,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 7.940,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "41 / 2018",
+  "data": "29/06/2018",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 3º Bim/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "7.940,00",
+    "valor_total": "7.940,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 153.495,72",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 115.121,79",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS - PESSOA FISICA",
+  "numero": "8 / 2018",
+  "data": "28/02/2018",
+  "historico": "LANÇAMENTO CMN RREO 1º BIM/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "153.495,72",
+    "valor_total": "153.495,72"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 12.600,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 12.600,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTRAS DESPESAS VARIAVEIS - PESSOAL CIVIL",
+  "numero": "65 / 2018",
+  "data": "31/10/2018",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 5º Bimestre/2018.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "12.600,00",
+    "valor_total": "12.600,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 13.800,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 13.800,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTRAS DESPESAS VARIAVEIS - PESSOAL CIVIL",
+  "numero": "51 / 2018",
+  "data": "31/08/2018",
+  "historico": "LANÇAMENTO RREO 4º BIM/2018 CMN",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "13.800,00",
+    "valor_total": "13.800,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 8.500,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 8.500,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTRAS DESPESAS VARIAVEIS - PESSOAL CIVIL",
+  "numero": "4 / 2018",
+  "data": "28/02/2018",
+  "historico": "LANÇAMENTO CMN RREO 1º BIM/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "8.500,00",
+    "valor_total": "8.500,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 9.450,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 9.450,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTRAS DESPESAS VARIAVEIS - PESSOAL CIVIL",
+  "numero": "36 / 2018",
+  "data": "29/06/2018",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 3º Bim/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "9.450,00",
+    "valor_total": "9.450,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 12.600,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 12.500,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTRAS DESPESAS VARIAVEIS - PESSOAL CIVIL",
+  "numero": "20 / 2018",
+  "data": "30/04/2018",
+  "historico": "LANÇAMENTO CMN RREO 2º BIM/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "12.600,00",
+    "valor_total": "12.600,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 38.573,64",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 38.573,64",
+  "pago": "R$ 0,00",
+  "elemento": "OBRIGACOES PATRONAIS",
+  "numero": "71 / 2018",
+  "data": "31/10/2018",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 5º Bim/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "38.573,64",
+    "valor_total": "38.573,64"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 252.529,53",
+  "anulado": "R$ 214.366,65",
+  "liquidado": "R$ 38.162,88",
+  "pago": "R$ 214.366,65",
+  "elemento": "OBRIGACOES PATRONAIS",
+  "numero": "62 / 2018",
+  "data": "31/08/2018",
+  "historico": "LANÇAMENTO RREO 4º BIM/2018 CMN",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "252.529,53",
+    "valor_total": "252.529,53"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 122.918,71",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "OBRIGACOES PATRONAIS",
+  "numero": "47 / 2018",
+  "data": "29/06/2018",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 3º Bim/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "122.918,71",
+    "valor_total": "122.918,71"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 2.000.000,00",
+  "anulado": "R$ 333.000,00",
+  "liquidado": "R$ 122.918,71",
+  "pago": "R$ 333.000,00",
+  "elemento": "OBRIGACOES PATRONAIS",
+  "numero": "3 / 2018",
+  "data": "28/02/2018",
+  "historico": "LANÇAMENTO CMN RREO 1º BIM/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "2.000.000,00",
+    "valor_total": "2.000.000,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 110.551,76",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 110.551,76",
+  "pago": "R$ 0,00",
+  "elemento": "OBRIGACOES PATRONAIS",
+  "numero": "19 / 2018",
+  "data": "30/04/2018",
+  "historico": "LANÇAMENTO CMN RREO 2º BIM/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "110.551,76",
+    "valor_total": "110.551,76"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 67.473,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 42.313,73",
+  "pago": "R$ 0,00",
+  "elemento": "MATERIAL DE CONSUMO",
+  "numero": "7 / 2018",
+  "data": "28/02/2018",
+  "historico": "LANÇAMENTO CMN RREO 1º BIM/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "67.473,00",
+    "valor_total": "67.473,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 132.141,91",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 102.638,46",
+  "pago": "R$ 0,00",
+  "elemento": "MATERIAL DE CONSUMO",
+  "numero": "53 / 2018",
+  "data": "31/08/2018",
+  "historico": "LANÇAMENTO RREO 4º BIM/2018 CMN",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "132.141,91",
+    "valor_total": "132.141,91"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 61.743,06",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 38.026,24",
+  "pago": "R$ 0,00",
+  "elemento": "MATERIAL DE CONSUMO",
+  "numero": "38 / 2018",
+  "data": "29/06/2018",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 3º Bim/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "61.743,06",
+    "valor_total": "61.743,06"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 94.801,65",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "MATERIAL DE CONSUMO",
+  "numero": "31 / 2018",
+  "data": "30/04/2018",
+  "historico": "LANÇAMENTO CMN RREO 2º BIM/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "94.801,65",
+    "valor_total": "94.801,65"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 373.433,22",
+  "anulado": "R$ 34.719,80",
+  "liquidado": "R$ 281.346,73",
+  "pago": "R$ 34.719,80",
+  "elemento": "LOCACAO DE MAO-DE-OBRA",
+  "numero": "9 / 2018",
+  "data": "28/02/2018",
+  "historico": "LANÇAMENTO CMN RREO 1º BIM/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "373.433,22",
+    "valor_total": "373.433,22"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 7.608,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "LOCACAO DE MAO-DE-OBRA",
+  "numero": "54 / 2018",
+  "data": "31/08/2018",
+  "historico": "LANÇAMENTO RREO 4º BIM/2018 CMN",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "7.608,00",
+    "valor_total": "7.608,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 379.454,37",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 202.191,79",
+  "pago": "R$ 0,00",
+  "elemento": "LOCACAO DE MAO-DE-OBRA",
+  "numero": "39 / 2018",
+  "data": "29/06/2018",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 3º Bim/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "379.454,37",
+    "valor_total": "379.454,37"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 524.637,01",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 506.310,78",
+  "pago": "R$ 0,00",
+  "elemento": "LOCACAO DE MAO-DE-OBRA",
+  "numero": "24 / 2018",
+  "data": "30/04/2018",
+  "historico": "LANÇAMENTO CMN RREO 2º BIM/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "524.637,01",
+    "valor_total": "524.637,01"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 904.693,87",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 904.693,87",
+  "pago": "R$ 0,00",
+  "elemento": "INDENIZACOES E RESTITUICOES",
+  "numero": "70 / 2018",
+  "data": "31/10/2018",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 5º Bimestre/2018.",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "904.693,87",
+    "valor_total": "904.693,87"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 959.089,06",
+  "anulado": "R$ 18.000,00",
+  "liquidado": "R$ 941.089,06",
+  "pago": "R$ 18.000,00",
+  "elemento": "INDENIZACOES E RESTITUICOES",
+  "numero": "60 / 2018",
+  "data": "31/08/2018",
+  "historico": "LANÇAMENTO RREO 4º BIM/2018 CMN",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "959.089,06",
+    "valor_total": "959.089,06"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 973.434,73",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 955.434,73",
+  "pago": "R$ 0,00",
+  "elemento": "INDENIZACOES E RESTITUICOES",
+  "numero": "44 / 2018",
+  "data": "29/06/2018",
+  "historico": "Lançamento da Execução Orçamentária da Câmara Municipal de Natal - 3º Bim/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "973.434,73",
+    "valor_total": "973.434,73"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 986.856,25",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 986.856,25",
+  "pago": "R$ 0,00",
+  "elemento": "INDENIZACOES E RESTITUICOES",
+  "numero": "28 / 2018",
+  "data": "30/04/2018",
+  "historico": "LANÇAMENTO CMN RREO 2º BIM/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "986.856,25",
+    "valor_total": "986.856,25"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 483.089,06",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 483.089,06",
+  "pago": "R$ 0,00",
+  "elemento": "INDENIZACOES E RESTITUICOES",
+  "numero": "14 / 2018",
+  "data": "28/02/2018",
+  "historico": "LANÇAMENTO CMN 1º BIM/2018",
+  "itens": [
+   {
+    "descricao": "NÃO UTILIZAR",
+    "quantidade": "1.00",
+    "valor_unitario": "483.089,06",
+    "valor_total": "483.089,06"
+   }
+  ]
+ }
+]
