@@ -64,123 +64,127 @@ function initMap() {
 
   // Adiciona todas as marcações de instituições
   let markers_inst = instituicoes.map(function(instituicao, i) {
-    let marker = new google.maps.Marker({
-      position: new google.maps.LatLng(instituicao.localizacao.latitude, instituicao.localizacao.longitude),
-      icon: icons['instituicao'].icon,
-      title: instituicao.nome,
-      map: map
-    });
+    if (instituicao.localizacao != null) {
+        let marker = new google.maps.Marker({
+          position: new google.maps.LatLng(instituicao.localizacao.latitude, instituicao.localizacao.longitude),
+          icon: icons['instituicao'].icon,
+          title: instituicao.nome,
+          map: map
+        });
 
-    marker.addListener('click', function() {
-      //Pega a div principal e mostra ela caso estivesse escondida
-      let detalhe_despesa = document.getElementById('detalhe');
-      detalhe_despesa.style.display = "block";
+      marker.addListener('click', function() {
+        //Pega a div principal e mostra ela caso estivesse escondida
+        let detalhe_despesa = document.getElementById('detalhe');
+        detalhe_despesa.style.display = "block";
 
-      let despesa_div = document.getElementById('despesa');
-      despesa_div.style.display = "block";
+        let despesa_div = document.getElementById('despesa');
+        despesa_div.style.display = "block";
 
-      let titulo = document.getElementById('titulo');
-      titulo.innerHTML = `<h1>Informações sobre o Instituição</h1>`;
+        let titulo = document.getElementById('titulo');
+        titulo.innerHTML = `<h1>Informações sobre o Instituição</h1>`;
 
-      //Recupera cada campo a ser modificado
-      let nome_inst = document.getElementById('nome');
-      let email_inst = document.getElementById('email');
-      let site_inst = document.getElementById('site');
-      let telefone_inst = document.getElementById('telefone');
+        //Recupera cada campo a ser modificado
+        let nome_inst = document.getElementById('nome');
+        let email_inst = document.getElementById('email');
+        let site_inst = document.getElementById('site');
+        let telefone_inst = document.getElementById('telefone');
 
-      //Seta as informações da Instituição em questão
-      nome_inst.innerHTML = (instituicao.nome != "") ? instituicao.nome : 'Não informado';
-      email_inst.innerHTML = (instituicao.email != "") ? instituicao.email : 'Não informado';
-      site_inst.innerHTML = (instituicao.site != "") ? instituicao.site : 'Não informado';
-      telefone_inst.innerHTML = (instituicao.telefone != "") ? instituicao.telefone : 'Não informado';
+        //Seta as informações da Instituição em questão
+        nome_inst.innerHTML = (instituicao.nome != "") ? instituicao.nome : 'Não informado';
+        email_inst.innerHTML = (instituicao.email != "") ? instituicao.email : 'Não informado';
+        site_inst.innerHTML = (instituicao.site != "") ? instituicao.site : 'Não informado';
+        telefone_inst.innerHTML = (instituicao.telefone != "") ? instituicao.telefone : 'Não informado';
 
-      //Setar informações das despesas da instituição na div despesa
-      despesa_div.innerHTML = `
-          <br>
-          <div class="row">
-            <div class="col-2"></div>
-            
-            <div class="col">
-              <h1>Despesa(s)</h1>
+        //Setar informações das despesas da instituição na div despesa
+        despesa_div.innerHTML = `
+            <br>
+            <div class="row">
+              <div class="col-2"></div>
+              
+              <div class="col">
+                <h1>Despesa(s)</h1>
+              </div>
+
+              <div class="col-2"></div>
             </div>
+          `;
 
-            <div class="col-2"></div>
-          </div>
-        `;
-
-        let xhttp_despesas = new XMLHttpRequest();
-        xhttp_despesas.onreadystatechange = function() {
-            if (this.readyState == 4 && this.status == 200) {
-              JSON.parse(xhttp_despesas.responseText).forEach( function (despesa) {
-                despesa_div.innerHTML += `
-                  <div class="despesa_item">
-                    <div class="row">
-                      <div class="col-2">
-                        <b>Descrição:</b>
+          let xhttp_despesas = new XMLHttpRequest();
+          xhttp_despesas.onreadystatechange = function() {
+              if (this.readyState == 4 && this.status == 200) {
+                JSON.parse(xhttp_despesas.responseText).forEach( function (despesa) {
+                  despesa_div.innerHTML += `
+                    <div class="despesa_item">
+                      <div class="row">
+                        <div class="col-2">
+                          <b>Descrição:</b>
+                        </div>
+                          
+                        <div class="col-10">
+                          ${despesa.descricao}
+                        </div>
                       </div>
-                        
-                      <div class="col-10">
-                        ${despesa.descricao}
+              
+                      <div class="row">
+                        <div class="col-2">
+                          <b>Data de inicio:</b>
+                        </div>
+                          
+                        <div class="col-10">
+                          ${despesa.data_inicio} (Ano-Mês-Dia)
+                        </div>
+                      </div>
+              
+                      <div class="row">
+                        <div class="col-3">
+                          <b>Empenhado:</b>
+                        </div>
+                          
+                        <div class="col-3">
+                          <b>Anulado:</b>
+                        </div>
+              
+                        <div class="col-3">
+                          <b>Liquidado:</b>
+                        </div>
+                          
+                        <div class="col-3">
+                          <b>Pago:</b>
+                        </div>
+                      </div>
+              
+                      <div class="row">
+                        <div class="col-3">
+                          ${despesa.empenhado}
+                        </div>
+                          
+                        <div class="col-3">
+                          ${despesa.anulado}
+                        </div>
+              
+                        <div class="col-3">
+                          ${despesa.liquidado}
+                        </div>
+                          
+                        <div class="col-3">
+                          ${despesa.pago}
+                        </div>
                       </div>
                     </div>
-            
-                    <div class="row">
-                      <div class="col-2">
-                        <b>Data de inicio:</b>
-                      </div>
-                        
-                      <div class="col-10">
-                        ${despesa.data_inicio} (Ano-Mês-Dia)
-                      </div>
-                    </div>
-            
-                    <div class="row">
-                      <div class="col-3">
-                        <b>Empenhado:</b>
-                      </div>
-                        
-                      <div class="col-3">
-                        <b>Anulado:</b>
-                      </div>
-            
-                      <div class="col-3">
-                        <b>Liquidado:</b>
-                      </div>
-                        
-                      <div class="col-3">
-                        <b>Pago:</b>
-                      </div>
-                    </div>
-            
-                    <div class="row">
-                      <div class="col-3">
-                        ${despesa.empenhado}
-                      </div>
-                        
-                      <div class="col-3">
-                        ${despesa.anulado}
-                      </div>
-            
-                      <div class="col-3">
-                        ${despesa.liquidado}
-                      </div>
-                        
-                      <div class="col-3">
-                        ${despesa.pago}
-                      </div>
-                    </div>
-                  </div>
-                  <hr>
-                `;
-              });
-            }
-        };
+                    <hr>
+                  `;
+                });
+              }
+          };
 
-        xhttp_despesas.open("GET", "api/despesa/2018/instituicao/"+instituicao.id, false);
-        xhttp_despesas.send();
-    });
+          xhttp_despesas.open("GET", "api/despesa/2018/instituicao/"+instituicao.id, false);
+          xhttp_despesas.send();
+      });
 
-    return marker;
+      return marker;
+    } else {
+      return null;
+    }
   });
 
   // Adiciona todas as marcações de orgãos

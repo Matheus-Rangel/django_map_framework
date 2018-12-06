@@ -38,10 +38,12 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'django.contrib.humanize',
     'django_extensions',
-    'map_app.apps.MapAppConfig',
+    'atualiza_app',
+    'map_app',
     'rest_framework',
-    'rangefilter',
+    'widget_tweaks',
 ]
 
 MIDDLEWARE = [
