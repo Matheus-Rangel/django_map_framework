@@ -38,8 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.humanize',
-    'django_extensions',
     'map_app',
+    'django_extensions',
     'rest_framework',
     'atualiza_app',
     'widget_tweaks',
@@ -60,7 +60,7 @@ ROOT_URLCONF = 'vigia_natal.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [TEMPLATE_DIR],
+        'DIRS': [],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
