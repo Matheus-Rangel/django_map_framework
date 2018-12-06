@@ -1,0 +1,128 @@
+[
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 15.052,50",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "4 / 2014",
+  "data": "31/12/2014",
+  "historico": "camara",
+  "itens": [
+   {
+    "descricao": "CAMARA",
+    "quantidade": "1.00",
+    "valor_unitario": "15.052,50",
+    "valor_total": "15.052,50"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 10.000,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 10.000,00",
+  "pago": "R$ 0,00",
+  "elemento": "OUTROS SERVICOS DE TERCEIROS-PESSOA JURIDICA",
+  "numero": "3 / 2014",
+  "data": "31/12/2014",
+  "historico": "camara",
+  "itens": [
+   {
+    "descricao": "CAMARA",
+    "quantidade": "1.00",
+    "valor_unitario": "10.000,00",
+    "valor_total": "10.000,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 4.116,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "EQUIPAMENTOS E MATERIAL PERMANENTE",
+  "numero": "8 / 2014",
+  "data": "31/12/2014",
+  "historico": "camara",
+  "itens": [
+   {
+    "descricao": "CAMARA",
+    "quantidade": "1.00",
+    "valor_unitario": "4.116,00",
+    "valor_total": "4.116,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 6.390,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "EQUIPAMENTOS E MATERIAL PERMANENTE",
+  "numero": "7 / 2014",
+  "data": "31/12/2014",
+  "historico": "camara",
+  "itens": [
+   {
+    "descricao": "CAMARA",
+    "quantidade": "1.00",
+    "valor_unitario": "6.390,00",
+    "valor_total": "6.390,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 28.832,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "EQUIPAMENTOS E MATERIAL PERMANENTE",
+  "numero": "6 / 2014",
+  "data": "31/12/2014",
+  "historico": "camara",
+  "itens": [
+   {
+    "descricao": "CAMARA",
+    "quantidade": "1.00",
+    "valor_unitario": "28.832,00",
+    "valor_total": "28.832,00"
+   }
+  ]
+ },
+ {
+  "instituicao": "CAMARA MUNICIPAL DO NATAL",
+  "orgao": "CAMARA MUNICIPAL DO NATAL",
+  "credor": "08.456.899/0001-63 - CAMARA MUNICIPAL DO NATAL",
+  "empenhado": "R$ 28.000,00",
+  "anulado": "R$ 0,00",
+  "liquidado": "R$ 0,00",
+  "pago": "R$ 0,00",
+  "elemento": "EQUIPAMENTOS E MATERIAL PERMANENTE",
+  "numero": "5 / 2014",
+  "data": "31/12/2014",
+  "historico": "camara",
+  "itens": [
+   {
+    "descricao": "CAMARA",
+    "quantidade": "1.00",
+    "valor_unitario": "28.000,00",
+    "valor_total": "28.000,00"
+   }
+  ]
+ }
+]

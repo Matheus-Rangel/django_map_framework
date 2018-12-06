@@ -17,7 +17,7 @@ class Localizacao(models.Model):
         string = self.estado + ', ' + self.cidade +', ' + self.bairro
         if self.endereco != '':
             string += ', ' + self.endereco
-        return str
+        return string
 
 
 class Instituicao(models.Model):

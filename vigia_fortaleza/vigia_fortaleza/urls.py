@@ -15,14 +15,19 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+
 from django.conf.urls import url
 from reclama_app import views
 
+from map_app import views as map_views
+from django.contrib.auth import views as auth_views
+
+
 urlpatterns = [
+    path('', include('map_app.urls')),
     path('admin/', admin.site.urls),
-    #path('', include('map_app.urls')),
-    #path('accounts/login/', auth_views.LoginView.as_view(), name='login'),
-    #path('accounts/logout/', auth_views.LogoutView.as_view(next_page = 'home'), name='logout'),
+    path('accounts/login/', auth_views.LoginView.as_view(), name='login'),
+    path('accounts/logout/', auth_views.LogoutView.as_view(next_page='home'), name='logout'),
     path('notify/', views.ReclamaFortalezaView.send_mail, name='sendmail'),
     path('redirect/', views.ReclamaFortalezaView.redirect_email, name='redirectmail'),
 ]

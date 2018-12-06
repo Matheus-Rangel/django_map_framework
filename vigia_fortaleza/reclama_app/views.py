@@ -5,6 +5,8 @@ from map_app.views.flex import ReclamaView
 from django.core.mail import send_mail
 from django.conf import settings
 from django.http import *
+from django.shortcuts import render
+from django.views import View
 
 class ReclamaFortalezaView(ReclamaView):
     def send_mail(request):
@@ -13,3 +15,4 @@ class ReclamaFortalezaView(ReclamaView):
 
     def redirect_email(request):
         return redirect('https://transparencia.fortaleza.ce.gov.br/index.php/faleConosco/')
+
