@@ -167,62 +167,6 @@
         </div>
       <hr>
       {% endif %}
-      
-      {% if despesas_obras %}
-        <div class="row">
-          <h1>Despesas com Obras por Orgãos</h1>
-        </div>
-
-        <!-- Gráficos de Despesas com Obras por Orgãos -->
-        <div class="row">
-          <div class="col-sm-12 col-md-6 col-lg-4 chart">
-            <canvas id="doio"></canvas>
-          </div>
-
-          <div class="col-sm-12 col-md-6 col-lg-4 chart">
-            <canvas id="doio2"></canvas>
-          </div>
-
-          <div class="col-sm-12 col-md-6 col-lg-4 chart">
-            <canvas id="doio3"></canvas>
-          </div>
-        </div>
-        
-        <!-- Tabela de Despesas com Obras por Orgãos -->
-        <div class="row">
-          <table class="table table-sm">
-            <thead  class="thead-dark">
-                <tr>
-                  <th scope="col">Orgão</th>
-                  
-                  <th scope="col">Empenhado</th>
-                  
-                  <th scope="col">Anulado</th>
-                  
-                  <th scope="col">Liquidado</th>
-
-                  <th scope="col">Pago</th>
-                </tr>
-            </thead>
-
-            <tbody>
-              {% for despesa in despesas_obras %}  
-                <tr>
-                  <td>{{despesa.Orgão}}</td>
-                  
-                  <td>{{despesa.Empenhado}}</td>
-                  
-                  <td>{{despesa.Anulado}}</td>
-
-                  <td>{{despesa.Liquidado}}</td>
-                  
-                  <td>{{despesa.Pago}}</td>
-                </tr>
-              {% endfor %}
-            </tbody>
-          </table>
-        </div>
-      {% endif %}
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
@@ -452,115 +396,11 @@
         
       }
 
-      function desenhaGraficosDespesaObrasOrgaos() {
-        let colors = [
-          {% for despesa in despesas_obras %}  
-            randomColor({luminosity: 'dark'}),
-          {% endfor %}
-        ];
-
-        let orgaos = [
-          {% for despesa in despesas_obras %}  
-            "{{despesa.Orgão}}",
-          {% endfor %}
-        ];
-
-        let dados = [
-          {% for despesa in despesas_obras %}  
-            Number( "{{despesa.Empenhado}}".replace(/\./g,'').replace(/\,/g,'.') ),
-          {% endfor %}
-        ];
-        let dados3 = [
-          {% for despesa in despesas_obras %}  
-            Number( "{{despesa.Liquidado}}".replace(/\./g,'').replace(/\,/g,'.') ),
-          {% endfor %}
-        ];
-        let dados4 = [
-          {% for despesa in despesas_obras %}  
-            Number( "{{despesa.Pago}}".replace(/\./g,'').replace(/\,/g,'.') ),
-          {% endfor %}
-        ];
-
-
-        let ctx = (document.getElementById('doio') == null) ? document.getElementById('doio') : document.getElementById('doio').getContext('2d');
-        let ctx3 = (document.getElementById('doio2') == null) ? document.getElementById('doio2') : document.getElementById('doio2').getContext('2d');
-        let ctx4 = (document.getElementById('doio3') == null) ? document.getElementById('doio3') : document.getElementById('doio3').getContext('2d');
-
-        let data = {
-            datasets: [{
-                data: dados,
-                backgroundColor: colors
-            }],
-            labels: orgaos
-        };
-        let data3 = {
-            datasets: [{
-                data: dados3,
-                backgroundColor: colors
-            }],
-            labels: orgaos
-        };
-        let data4 = {
-            datasets: [{
-                data: dados4,
-                backgroundColor: colors
-            }],
-            labels: orgaos
-        };
-        
-        if (ctx != null) {
-          new Chart(ctx ,{
-            type: 'doughnut',
-            data: data,
-            options: {
-              title: {
-                display: true,
-                text: 'Valores Empenhados'
-              },
-              legend: {
-                display: false,
-              },
-            }
-          });
-        }
-
-        if (ctx3 != null) {
-          new Chart(ctx3 ,{
-            type: 'doughnut',
-            data: data3,
-            options: {
-              title: {
-                display: true,
-                text: 'Valores Liquidados'
-              },
-              legend: {
-                display: false,
-              }
-            }
-          });
-        }
-
-        if (ctx4 != null) {
-          new Chart(ctx4 ,{
-            type: 'doughnut',
-            data: data4,
-            options: {
-              title: {
-                display: true,
-                text: 'Valores Pagos'
-              },
-              legend: {
-                display: false,
-              }
-            }
-          });
-        }
-      }
+      
       
       desenhaGraficosDespesaPrefOrgaos();
       desenhaGraficosDespesaPrefFuncoes();
       desenhaGraficosDespesaInst();
-      desenhaGraficosDespesaObrasOrgaos();
     </script>
   {% endblock %}
 

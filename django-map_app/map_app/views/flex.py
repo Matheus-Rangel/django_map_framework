@@ -107,7 +107,6 @@ class InfoView(TemplateView):
         context = super(InfoView, self).get_context_data(**kwargs)
         context['despesas_instituicoes'] = self.getInfoInstituicao()
         context['despesas_orgaos'] = self.getInfoOrgao()
-        context['despesas_obras'] = self.getInfoDespesaObras()
         context['despesas_funcoes'] = self.getInfoDespesaFuncoes()
         return context
 
@@ -115,9 +114,6 @@ class InfoView(TemplateView):
         pass
 
     def getInfoOrgao(self):
-        pass
-
-    def getInfoDespesaObras(self):
         pass
 
     def getInfoDespesaFuncoes(self):
