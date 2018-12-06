@@ -112,14 +112,14 @@ class InfoView(TemplateView):
         return context
 
     def getInfoInstituicao(self):
-        return ""
+        pass
 
     def getInfoOrgao(self):
-        return ""
+        pass
 
     def getInfoDespesaObras(self):
-        return ""
+        pass
 
     def getInfoDespesaFuncoes(self):
-        return ""
+        pass
 
