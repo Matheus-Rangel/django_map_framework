@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django_extensions',
-    'atualiza_app'
+    'atualiza_app',
     'map_app',
     'rest_framework',
     'rangefilter',
